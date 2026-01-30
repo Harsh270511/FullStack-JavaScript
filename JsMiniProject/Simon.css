@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+}
+.btn{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
+}
+.btn-container{
+  display: flex;
+  justify-content: center;
+}
+.one{
+  background-color: #F806CC;
+
+}
+.two{
+  background-color: #A91079;
+}
+.three{
+  background-color: #570A57;
+}
+.four{
+  background-color: #2E0249;
+}

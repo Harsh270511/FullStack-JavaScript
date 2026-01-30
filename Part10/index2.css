@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.btn{
+  justify-content: center;
+}
+div{
+  height: 100px;
+  width: 400px;
+  border: 1px solid black;
+  margin: auto;
+}
